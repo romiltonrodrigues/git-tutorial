@@ -19,20 +19,20 @@ Get started by creating a new file or uploading an existing file. We recommend e
     git remote add origin https://github.com/romiltonrodrigues/Teste.git
     git branch -M main
     git push -u origin main
-```bash
+
 
 #  📌 1. Estrutura básica de um repositório
-```bash
+
 📁 ProjetoGit/  
 ├─── README.md  
 ├─── .gitignore  
 ├─── src/  
 ├─── docs/  
 └─── tests/
-```
+
 
 # 📌 2. ENVIAR (LOCAL → REMOTE)
-```bash
+
 $ git init                           # inicia o repositório local  
 $ git add .                          # adiciona arquivos para controle  
 $ git commit -m "primeiro commit"    # cria o commit  
@@ -41,10 +41,10 @@ $ git branch -M main                 # define branch principal
 $ git remote add origin https://github.com/romiltonrodrigues/ProjetoGit.git  
 $ git push -u origin main            # envia para o GitHub  
 $ history  
-```
+
 
 # 📌 3. BAIXAR (REMOTE → LOCAL)
-```bash
+
 $ git clone https://github.com/romiltonrodrigues/ProjetoGit.git    # Para pegar um projeto do GitHub    
 $ git pull   
 ```
