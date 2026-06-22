@@ -1,7 +1,7 @@
 ## Olá esse projeto ensina voce a usar o git.
 ```bash
 
-Quick setup — if you’ve done this kind of thing before
+Quick setup — if you’ve done this kind of thing before 
 
 HTTPS ->   https://github.com/romiltonrodrigues/Teste.git
 SSH   ->   git@github.com:romiltonrodrigues/Teste.git
